@@ -6,7 +6,6 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working on: Full-stack, AI Chatbot
 - 🎯 Goal: Build things people want to use.
 
 ---
