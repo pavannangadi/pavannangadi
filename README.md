@@ -8,8 +8,7 @@
 
 ### 🛠️ Skills
 ```bash
-Languages   : Python | JavaScript | Java | C++
-Languages: JavaScript | Java | Python | C | PHP
+Languages: Python | JavaScript | Java | Python | C | PHP
 Frontend: React.js | HTML | CSS
 Backend: Node.js | Express.js | RESTful APIs
 Databases: MongoDB | SQL
