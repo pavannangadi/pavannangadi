@@ -118,9 +118,9 @@
 
 ### Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/pavannangadi/pavannangadi/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
+###<p align="center">
+ ### <img src="https://raw.githubusercontent.com/pavannangadi/pavannangadi/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+###</p>
 
 > To enable the snake animation, set up the [Platane/snk](https://github.com/Platane/snk) GitHub Action on this profile repo so it generates the SVG on the `output` branch.
 
