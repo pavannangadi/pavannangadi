@@ -17,112 +17,70 @@
 </p>
 
 ---
+🛠️ Tech Stack
 
-### About Me
+<!-- Hover an icon to see its name, click it to open the official site. -->
 
-- I'm currently working on cool projects using **Python, React & Node.js**
-- I'm currently deepening my knowledge in **AI/ML & System Design**
-- I love **debugging** and writing **secure, performant code**
-- Fun fact: I enjoy solving DSA problems for fun
-- Ask me about **Python, JavaScript, React, or DBMS**
+Languages & Runtime
 
----
+<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/></a> <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript"/></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/></a> <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"/></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP"/></a> <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bun" title="Bun" alt="Bun"/></a> </p>
 
-### Tech Stack
+<!-- <sub>Bun + TypeScript in strict mode (no any) is my go-to runtime/language pairing for new backend projects.</sub> -->
 
-**Languages**
+Frontend
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java,c,php" />
-</p>
+<p align="left"> <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=react" title="React" alt="React"/></a> <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML"/></a> <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS"/></a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vite" title="Vite" alt="Vite"/></a> <a href="https://reactrouter.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" title="React Router" alt="React Router"/></a> </p>
 
-**Frontend**
+Backend & API
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+<p align="left"> <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js"/></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=express" title="Express" alt="Express"/></a> <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=graphql" title="GraphQL" alt="GraphQL"/></a> <a href="https://the-guild.dev/graphql/yoga-server" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GraphQL%20Yoga-E10098?style=for-the-badge&logo=graphql&logoColor=white" title="GraphQL Yoga" alt="GraphQL Yoga"/></a> </p>
 
-**Backend**
+<!-- <sub>Schema-first GraphQL Yoga setup: .graphql schema files kept separate from TypeScript resolvers.</sub> -->
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+Databases & ORM
 
-**Databases**
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB"/></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL"/></a> <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" alt="PostgreSQL"/></a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=prisma" title="Prisma" alt="Prisma"/></a> </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+<!-- <sub>PostgreSQL runs via Docker Compose locally, with Prisma as the ORM layer.</sub> -->
 
-**Tools & DevOps**
+Auth & Security
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,aws,streamlit" />
-</p>
+<p align="left"> <a href="https://jwt.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" title="JWT" alt="JWT"/></a> <a href="https://www.npmjs.com/package/bcrypt" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge&logo=letsencrypt&logoColor=white" title="bcrypt" alt="bcrypt"/></a> </p>
 
-**Libraries & Frameworks**
+Testing
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+<p align="left"> <a href="https://bun.sh/docs/cli/test" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bun%20Test-000000?style=for-the-badge&logo=bun&logoColor=white" title="Bun Test Runner" alt="Bun Test Runner"/></a> </p>
 
-**CS Concepts**
+<!-- <sub>Unit tests plus at least one integration test run against a real Postgres instance, using Bun's built-in test runner.</sub> -->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/DSA-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OS-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Computer%20Networks-purple?style=for-the-badge"/>
-</p>
+Tools & DevOps
 
-**Strengths**
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/></a> <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/></a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS"/></a> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" alt="Streamlit"/></a> </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Debugging-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Secure%20Coding-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Performance-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Agile%20Workflow-black?style=for-the-badge"/>
-</p>
+Libraries & Frameworks
+
+<p align="left"> <a href="https://rasa.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" title="Rasa" alt="Rasa"/></a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" title="Pandas" alt="Pandas"/></a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" title="NumPy" alt="NumPy"/></a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" title="scikit-learn" alt="scikit-learn"/></a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" title="Matplotlib" alt="Matplotlib"/></a> </p>
+
+CS Concepts
+
+<p align="left"> <img src="https://img.shields.io/badge/DSA-orange?style=for-the-badge"/> <img src="https://img.shields.io/badge/OOP-blue?style=for-the-badge"/> <img src="https://img.shields.io/badge/DBMS-green?style=for-the-badge"/> <img src="https://img.shields.io/badge/OS-red?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Networks-purple?style=for-the-badge"/> </p>
+
+Strengths
+
+<p align="left"> <img src="https://img.shields.io/badge/Debugging-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/Secure%20Coding-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/Performance-black?style=for-the-badge"/> <img src="https://img.shields.io/badge/Agile%20Workflow-black?style=for-the-badge"/> </p>
 
 ---
 
 ### GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavannangadi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavannangadi&layout=compact&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavannangadi&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavannangadi&theme=tokyo-night" width="100%"/>
-</p>
-
----
-
-### GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavannangadi&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
 ---
 
 ### Contribution Snake
-
-###<p align="center">
- ### <img src="https://raw.githubusercontent.com/pavannangadi/pavannangadi/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-###</p>
-
-> To enable the snake animation, set up the [Platane/snk](https://github.com/Platane/snk) GitHub Action on this profile repo so it generates the SVG on the `output` branch.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pavannangadi/pavannangadi/output/github-contribution-grid-snake-dark.svg">
