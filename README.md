@@ -23,7 +23,13 @@
 
 Languages & Runtime
 
-<p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/></a> <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/></a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript"/></a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/></a> <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" title="C" alt="C"/></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP"/></a> <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bun" title="Bun" alt="Bun"/></a> </p>
+<p align="left"> 
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python" title="Python" alt="Python"/></a> 
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript"/></a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript" alt="TypeScript"/></a> 
+  <a href="https://bun.sh/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=bun" title="Bun" alt="Bun"/></a> 
+</p>
 
 <!-- <sub>Bun + TypeScript in strict mode (no any) is my go-to runtime/language pairing for new backend projects.</sub> -->
 
@@ -55,7 +61,13 @@ Testing
 
 Tools & DevOps
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/></a> <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/></a> <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS"/></a> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" alt="Streamlit"/></a> </p>
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/></a> 
+  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/></a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS"/></a> 
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" alt="Streamlit"/></a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker"/></a>
+</p>
 
 Libraries & Frameworks
 
