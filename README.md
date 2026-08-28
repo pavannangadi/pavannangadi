@@ -65,8 +65,8 @@ Tools & DevOps
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git"/></a> 
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub"/></a> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="AWS"/></a> 
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" alt="Streamlit"/></a> 
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker"/></a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=streamlit" title="Streamlit" alt="Streamlit"/></a> 
 </p>
 
 Libraries & Frameworks
